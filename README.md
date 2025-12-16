@@ -16,3 +16,7 @@ customer behavior, and product performance.
 - DAX
 - Power Query
 - Excel / CSV
+
+## 👤 Author
+Vibhor Krishan  
+Microsoft Certified: Power BI Data Analyst (PL-300)
